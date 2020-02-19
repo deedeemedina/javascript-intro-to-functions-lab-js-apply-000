@@ -8,4 +8,3 @@ return string.toLowerCase()
 
 const logShout = 'hello';
   console.log(logShout.toUpperCase());
-}
