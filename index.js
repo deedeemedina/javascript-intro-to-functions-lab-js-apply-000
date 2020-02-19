@@ -19,9 +19,9 @@ const logWhisper = function() {
 logWhisper()
 
 const sayHiToGrandma = function(string) {
-  if ("I can't hear you!")
+  if (string.toLowerCase)
   console.log("I can't hear you!")
-  else
-  console.log("your not deaf")
-
+  else (string.toUpperCase) {
+    console.log("YES INDEED!")
+  }
 }
