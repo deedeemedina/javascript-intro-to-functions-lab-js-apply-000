@@ -11,3 +11,9 @@ const logShout = function() {
 };
 
 logShout()
+
+const logWhisper = function() {
+  console.log("hello");
+};
+
+logWhisper
