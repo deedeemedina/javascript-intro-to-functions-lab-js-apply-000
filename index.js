@@ -10,4 +10,4 @@ const logShout = function() {
   console.log("HELLO");
 };
 
-spy()
+logShout()
