@@ -19,7 +19,7 @@ const logWhisper = function() {
 logWhisper()
 
 function sayHiToGrandma(string) {
-return = "I can't hear you!"
+return string.lowercase()
 };
 
 sayHiToGrandma("I can't hear you!")
