@@ -22,4 +22,4 @@ function sayHiToGrandma(string) {
 return string.toLowerCase()
 };
 
-console.log("I cant' hear you!")
+console.log("I can't hear you!")
