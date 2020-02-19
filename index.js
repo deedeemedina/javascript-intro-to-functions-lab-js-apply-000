@@ -21,7 +21,7 @@ logWhisper()
 function sayHiToGrandma(string) {
 
 if string.toLowerCase
-return = "I cant hear you!"
+return = "I can't hear you!"
 }
 
-sayHiToGrandma("I cant hear you!")
+sayHiToGrandma("I can't hear you!")
