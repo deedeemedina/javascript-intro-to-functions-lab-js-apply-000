@@ -22,6 +22,6 @@ const sayHiToGrandma = function(string) {
   if ("I can't hear you!")
   console.log("I can't hear you!")
   else
-  console.log("your deaf")
+  console.log("your not deaf")
 
 }
