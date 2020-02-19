@@ -24,4 +24,4 @@ if string.toLowerCase
 return = "I cant hear you!"
 }
 
-sayHiToGrandma()
+sayHiToGrandma("I cant hear you!")
