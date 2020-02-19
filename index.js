@@ -16,4 +16,4 @@ const logWhisper = function() {
   console.log("hello");
 };
 
-logWhisper
+logWhisper()
