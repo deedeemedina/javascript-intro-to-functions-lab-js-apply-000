@@ -7,6 +7,6 @@ return string.toLowerCase()
 }
 
 function logShout(string) {
-
+const spy = 'hello'
 }
-console.log(logShout.toUpperCase());
+console.log(spy.toUpperCase());
