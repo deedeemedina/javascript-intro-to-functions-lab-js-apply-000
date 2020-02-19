@@ -17,3 +17,11 @@ const logWhisper = function() {
 };
 
 logWhisper()
+
+function sayHiToGrandma(string) {
+
+if string.toLowerCase
+return = "I cant hear you!"
+}
+
+sayHiToGrandma()
